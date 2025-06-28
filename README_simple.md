@@ -3,7 +3,7 @@
 A professional portfolio website showcasing expertise in corporate finance and technology.
 
 ## 🌟 Live Website
-**[View Portfolio][(https://cozy-douhua-efaf74.netlify.app](https://sunny-portfolio-finance.netlify.app/)]**
+**[View Portfolio][https://sunny-portfolio-finance.netlify.app/]**
 
 ## 📖 Development Journey
 
