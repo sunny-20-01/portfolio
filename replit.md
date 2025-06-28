@@ -100,7 +100,10 @@ This is a modern React-based portfolio website built for Sunny, a finance and te
 - **Database Sync**: Drizzle push command for schema updates
 
 ## Changelog
-- June 28, 2025. Initial setup
+- June 28, 2025: Initial portfolio website setup with comprehensive sections
+- June 28, 2025: Updated profile photo and enhanced project details
+- June 28, 2025: Added complete skills, certifications, and academic projects
+- June 28, 2025: Created downloadable website package (sunny-portfolio-website.tar.gz)
 
 ## User Preferences
 
