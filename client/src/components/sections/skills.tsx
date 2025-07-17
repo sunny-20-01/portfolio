@@ -13,12 +13,12 @@ export default function Skills() {
     {
       title: "Data Science",
       icon: BarChart3,
-      skills: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "Matplotlib"]
+      skills: ["NumPy", "Pandas", "Scikit-learn", "PyTorch", "Matplotlib"]
     },
     {
       title: "Finance Tools",
       icon: Calculator,
-      skills: ["Excel", "Bloomberg", "Financial Modeling", "Portfolio Management"]
+      skills: ["Excel", "VBA", "Financial Modeling", "Portfolio Management"]
     },
     {
       title: "Languages",
